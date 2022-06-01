@@ -1,0 +1,21 @@
+paso 1 composer i
+
+paso 2 copiar archivo .env
+
+paso 3 php artisan serve
+
+paso 4 KEY
+--------------------------------
+
+paso 5 npm i
+
+paso 6 npm run dev
+
+--------------------------------
+paso 7 crear BDD
+
+paso 8 registrar la configuracion del .env
+
+paso 9 registrar un usuario
+
+factory-----datos ficticios
